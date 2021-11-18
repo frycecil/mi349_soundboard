@@ -1,0 +1,34 @@
+html{
+    background-color: #5c3026;
+}
+
+.button-container{
+    display: flex;
+    padding: 20px;
+    margin: auto;
+}
+.card{
+    background-color: #dc8c24;
+}
+.press-me{
+    background-color: #fcdc7b;
+    display: block;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-size{
+    width: 250px;
+    height: 254px;
+    object-fit: cover;
+}
+
+.site-heading{
+    color: #c6b3b0;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+    font-size: 35pt;
+    font-family: sans-serif;
+    text-align: center;
+}
